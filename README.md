@@ -5,16 +5,16 @@
 - ( ˶ˆᗜˆ˵ ) I’m currently learning:
 
 - Languages: ( ͈ര ̫ര ͈) ⊹`𓈒
-   ᐠ( ᐛ )ᐟ ₊˚⊹☆ Python⊹₊⋆
-     ⊹₊⋆Java₊˚⊹☆ ᐠ( ᐛ )ᐟ
-   ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html php⊹₊⋆
-    ⊹₊⋆mysql₊˚⊹☆ ᐠ( ᐛ )ᐟ
+   -ᐠ( ᐛ )ᐟ ₊˚⊹☆ Python⊹₊⋆
+    - ⊹₊⋆Java₊˚⊹☆ ᐠ( ᐛ )ᐟ
+   -ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html php⊹₊⋆
+    -⊹₊⋆mysql₊˚⊹☆ ᐠ( ᐛ )ᐟ
   - Topics:(٩>ᴗ<)و
-    Machine learning
-    Modeling 3d
-    Motors Graphics for Videogames
-    Ethical Hacking
-    Networking
+    Machine learning,
+    Modeling 3d,
+    Motors Graphics for Videogames,
+    Ethical Hacking,
+    Networking,
     
 - (っ'ヮ'c) I’m looking to collaborate on individual or open source ( ˶°ㅁ°) !!
 
