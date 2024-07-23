@@ -5,11 +5,11 @@
 - ( ˶ˆᗜˆ˵ ) I’m currently learning:
 
 - Languages: ( ͈ര ̫ര ͈) ⊹`𓈒
-   -ᐠ( ᐛ )ᐟ ₊˚⊹☆ Python⊹₊⋆
-    - ⊹₊⋆Java₊˚⊹☆ ᐠ( ᐛ )ᐟ
-   -ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html php⊹₊⋆
-    -⊹₊⋆mysql₊˚⊹☆ ᐠ( ᐛ )ᐟ
-  - Topics:(٩>ᴗ<)و
+- ᐠ( ᐛ )ᐟ ₊˚⊹☆ Python⊹₊⋆
+- ⊹₊⋆Java₊˚⊹☆ ᐠ( ᐛ )ᐟ
+- ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html ⊹₊⋆
+- ⊹₊⋆mysql php₊˚⊹☆ ᐠ( ᐛ )ᐟ
+- Topics:(٩>ᴗ<)و
     Machine learning,
     Modeling 3d,
     Motors Graphics for Videogames,
