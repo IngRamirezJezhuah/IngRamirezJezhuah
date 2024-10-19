@@ -1,4 +1,4 @@
-- ٩(^ᗜ^ )و ´- Hi, I’m @IngRamirezJezhuah
+- ٩(^ᗜ^ )و ´- Hi, I’m IngRamirezJezhuah
 - ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested in desing for videogames, make programs and play wwhit the programs
   also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
   and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
@@ -7,7 +7,7 @@
 - Languages: ( ͈ര ̫ര ͈) ⊹`𓈒
 - ᐠ( ᐛ )ᐟ ₊˚⊹☆ Python⊹₊⋆
 - ⊹₊⋆Java₊˚⊹☆ ᐠ( ᐛ )ᐟ
-- ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html ⊹₊⋆
+- ᐠ( ᐛ )ᐟ  ₊˚⊹☆Css html js ⊹₊⋆
 - ⊹₊⋆mysql php₊˚⊹☆ ᐠ( ᐛ )ᐟ
 - Topics:(٩>ᴗ<)و
     Machine learning,
