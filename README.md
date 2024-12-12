@@ -32,7 +32,8 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly make draws in insta on <a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
