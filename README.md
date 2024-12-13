@@ -61,8 +61,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
--🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play wwhit the programs
-    also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
+## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play whit the programs opensource
+-  also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
     and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
 
 - **Topics(٩>ᴗ<)و Machine learning/Modeling 3d/Motors Graphics for Videogames/Ethical Hacking/Networking**
@@ -113,7 +113,8 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 -----
-Last Edited on: 11/12/2024
+
+Last Edited on: 13/12/2024
 
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
           
