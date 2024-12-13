@@ -79,7 +79,8 @@
 
 - I realli like goint to made a extention for windows or browseers about anime modding (٩>ᴗ<)و
 
-- 📝 I regularly post draws on insta <a href="[https://instagram.com/anii_akhi](https://www.instagram.com/djxs4n/)l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+- 📝 I regularly post draws on insta<a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+
 -----
 
 # 💻 Tech Stack:
