@@ -57,6 +57,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 -----
 
+
 -🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play wwhit the programs
     also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
     and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
@@ -65,7 +66,7 @@
  <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,figma,github,py,c,html,css,java,js,nginx,django,mongodb,mysql,nodejs,react,vscode,unreal,godot,linux,postgres, kali linux&perline=14" />
   </a>
 </p>
 
@@ -86,7 +87,10 @@
 - 📝 I regularly post draws on insta <a href="[https://instagram.com/anii_akhi](https://www.instagram.com/djxs4n/)l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 -----
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+-----
 Last Edited on: 11/12/2024
 
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
