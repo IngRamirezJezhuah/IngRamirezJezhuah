@@ -61,6 +61,16 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+# 💻 Tech Stack:
+
+ <h3 align="left">🌱( ˶ˆᗜˆ˵ )₊˚⊹☆ I’m currently learning and use:⊹₊⋆</h3>
+ <!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,py,c,cs,cpp,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,nodejs,npm,ts,androidstudio,arduino,react,express,vscode,postman,unreal,godot,unity,docker,grafana,arduino,debian,linux,ubuntu,kali,mint,aws,linkedin,xd,&perline=14" />
+  </a>
+</p>
+
 ## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play whit the programs opensource
 -  also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
     and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
@@ -83,15 +93,7 @@
 
 -----
 
-# 💻 Tech Stack:
 
- <h3 align="left">🌱( ˶ˆᗜˆ˵ )₊˚⊹☆ I’m currently learning and use:⊹₊⋆</h3>
- <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,xd,discord,postgres,figma,github,py,c,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,nodejs,react,vscode,unreal,godot,unity,docker,grafana,linux,ubuntu,kali,aws,&perline=14" />
-  </a>
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
