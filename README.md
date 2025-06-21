@@ -1,5 +1,5 @@
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">(^ᗜ^ )و ´, I’m IngRamirezJezhuah</h1></summary>
   </ul>
@@ -58,21 +58,42 @@
 ![](https://github-profile-trophy.vercel.app/?username=IngRamirezJezhuah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 -----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IngRamirezJezhuah&theme=dark&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+-----
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 # 💻 Tech Stack:
 
- <h3 align="left">🌱( ˶ˆᗜˆ˵ )₊˚⊹☆ I’m currently learning and use:⊹₊⋆</h3>
+<h3 align="left">🌱( ˶ˆᗜˆ˵ )₊˚⊹☆ I’m currently learning and use:⊹₊⋆</h3>
  <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,py,c,cs,cpp,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,nodejs,npm,ts,androidstudio,arduino,react,express,vscode,postman,unreal,godot,unity,docker,grafana,arduino,debian,linux,ubuntu,kali,mint,aws,linkedin,xd,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,sqlite,nodejs,npm,ts,react,express,docker,grafana,gradle,&perline=14" />
+  </a>
+</p>
+
+<h3 align="left">( ˶°ㅁ°) !!₊˚⊹☆ Programs I use for programing:⊹₊⋆</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,androidstudio,arduino,vscode,postman,unreal,godot,aws,linkedin,xd,&perline=14" />
+  </a>
+</p>
+
+<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,xd,&perline=14" />
   </a>
 </p>
 
 ## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play whit the programs opensource
--  also im interessed in web design(Backen and frontnet) ദ്ദി ༎ຶ‿༎ຶ )
+-  also im interessed in web design(Backen and frontnet) and also native Programs and desing of Gnulinux )
     and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
 
 - **Topics(٩>ᴗ<)و Machine learning/Modeling 3d/Motors Graphics for Videogames/Ethical Hacking/Networking**
@@ -92,29 +113,19 @@
 - 📝 I regularly post draws on insta<a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 -----
+<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 My desktop:⊹₊⋆</h3>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IngRamirezJezhuah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![entorno](https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=IngRamirezJezhuah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -----
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
------
 
-Last Edited on: 6/1/2025
+Last Edited on: 21/6/2025
