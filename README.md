@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="left">( ˶°ㅁ°) !!₊˚⊹☆ Programs I use for programing:⊹₊⋆</h3>
+<h3 align="left">( ˶°ㅁ°) !!₊˚⊹☆ Programs who use :⊹₊⋆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,androidstudio,arduino,vscode,postman,unreal,godot,aws,linkedin,xd,&perline=14" />
