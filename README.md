@@ -67,6 +67,17 @@
 -----
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 My desktop:⊹₊⋆</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf" height="300" width="400" />
+  <img src="https://github.com/user-attachments/assets/ce5099b9-9460-4239-9f97-7f935f55baa7" alt="grub" width="600px" height="400px" aling="center"/>
+</p>
+<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,xd,&perline=14" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -85,12 +96,6 @@
   </a>
 </p>
 
-<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,xd,&perline=14" />
-  </a>
-</p>
 
 ## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play whit the programs opensource
 -  also im interessed in web design(Backen and frontnet) and also native Programs and desing of Gnulinux )
@@ -113,9 +118,7 @@
 - 📝 I regularly post draws on insta<a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 -----
-<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 My desktop:⊹₊⋆</h3>
 
-![entorno](https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf)
 
 
 ### ✍️ Random Dev Quote
