@@ -75,7 +75,7 @@
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,xd,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,arch,xd,&perline=14" />
   </a>
 </p>
 
