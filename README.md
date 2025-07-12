@@ -1,11 +1,11 @@
 <!--h1 without bottom border-->
 
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">(^ᗜ^ )و ´, I’m IngRamirezJezhuah</h1></summary>
+    <summary><h1 style="display: inline-block"> Hallo EveryNyan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">(^ᗜ^ )و ´, I’m IngRamirezJezhuah</h1></summary>
   </ul>
 </div>
   <div align="center">
-    <summary>
+    <div style="display: inline-block">
        <h4>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠶⠚⠉⢉⣩⠽⠟⠛⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠉⠀⢀⣠⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -41,36 +41,34 @@
 ⠀⡼⠁⠀⠀⠀⠀⠀⠀⢀⠻⣺⣧⠀⠀⠀⠰⢢⠈⢪⡷⡀⠀⠙⡄⠀⠀⠱⡄⠀⠀⠀⢧⠀⢸⡻⠀⢠⡇⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢰⠇⠀⠀⠀⠀⠀⠀⠀⢸⠀⡏⣿⠀⠀⠀⠀⢣⢇⠀⠑⣄⠀⠀⠸⡄⠀⠀⠘⡄⠀⠀⠸⡀⢸⠁⠀⡾⢰⡏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
        </h4>
-    </summary>
+    </div>
   </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"crying and despair is part of programming"</h2></summary>
+    <summary><h2 style="display: inline-block">"crying and despair is part of programming (╥ ω ╥)"</h2></summary>
   </ul>
 </div>
 
 -----
 <!--Presentacion-->
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies ( •̀ ᗜ •́ )ᕗ
 ![](https://github-profile-trophy.vercel.app/?username=IngRamirezJezhuah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 -----
-# 📊 GitHub Stats:
+# 📊 GitHub Stats ( • ̀ω•́ )✧:
 ![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IngRamirezJezhuah&theme=dark&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngRamirezJezhuah&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/IngRamirezJezhuah/count.svg"/>
-  <br/>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngRamirezJezhuah&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+  </div>
+
 </div>
 -----
 
@@ -80,7 +78,7 @@
   <img src="https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf" height="300" width="400" />
   <img src="https://github.com/user-attachments/assets/ce5099b9-9460-4239-9f97-7f935f55baa7" alt="grub" width="600px" height="400px" aling="center"/>
 </p>
-<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆</h3>
+<h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆(⊙ _ ⊙ )</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,arch,xd,&perline=14" />
@@ -97,7 +95,7 @@
   </a>
 </p>
 
-<h3 align="left">( ˶°ㅁ°) !!₊˚⊹☆ Programs who use :⊹₊⋆</h3>
+<h3 align="left">( ◡̀_◡́)ᕤ₊˚⊹☆ Programs who use :⊹₊⋆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,androidstudio,arduino,vscode,postman,unreal,godot,aws,linkedin,xd,&perline=14" />
@@ -105,24 +103,22 @@
 </p>
 
 
-## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I’m interested** in desing for videogames, make programs and play whit the programs opensource
--  also im interessed in web design(Backen and frontnet) and also native Programs and desing of Gnulinux )
-    and i have a lot of desings in somes projects about the tecnologies ∘ ∘ ∘ ( °ヮ° ) ?
+## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I'm interested in** developing and designing for video games, creating programs, and playing with free and open-source software.
+- I'm also interested in web development (Facebook and Front-End), as well as native PC programs, such as GnuLinux development.
 
-- **Topics(٩>ᴗ<)و Machine learning/Modeling 3d/Motors Graphics for Videogames/Ethical Hacking/Networking**
-    
-- (っ'ヮ'c) I’m looking to collaborate on individual or open source ( ˶°ㅁ°) !!
+My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 
-- I realli like goint to made a extention for windows or browseers about anime modding (٩>ᴗ<)و
+- **Topics (٩>ᴗ<)و Machine Learning/3D Modeling/Graphics and Game Engine Development/Ethical Hacking/Networks and Security**
 
-- 📫 Feel free to reach me out **ramirezalvaradodavidjezhuah@gmail.com**
+- (っ'ヮ'c) I'm looking to collaborate individually or as a team on open-source projects ( ˶°ㅁ°) !!
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [pronoobdj](https://discordapp.com/users/957722095381540874) my username!
+- I would really like to create a Linux extension for anime-style customization. I'm also learning QML and Hyperland for Linux environments (٩>ᴗ<)و
 
-- (っ'ヮ'c) I’m looking to collaborate on individual or open source ( ˶°ㅁ°) !!
+-☆⌒(ゝ。∂)  Feel free to contact me at my email **ramirezalvaradodavidjezhuah@gmail.com**
 
-- I realli like goint to made a extention for windows or browseers about anime modding (٩>ᴗ<)و
+- ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ Feel free to say hello**👋(˶ˆᗜˆ˵)** on Discord: [pronoobdj](https://discordapp.com/users/957722095381540874) <- (˃ 𖥦 ˂) my username!
 
+- (っ'ヮ'c) I'm looking to collaborate on individual or general projects, willing to work remotely (˶°ㅁ°) !!
 - 📝 I regularly post draws on insta<a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 -----
