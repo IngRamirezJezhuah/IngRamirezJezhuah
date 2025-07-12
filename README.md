@@ -64,6 +64,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngRamirezJezhuah&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/IngRamirezJezhuah/count.svg"/>
+  <br/>
+</div>
 -----
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -124,11 +132,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=IngRamirezJezhuah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 -----
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-Last Edited on: 21/6/2025
+<h1  style="display: inline-block">Last Edited on: 12/7/2025</h1>
+
