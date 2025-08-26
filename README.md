@@ -55,7 +55,8 @@
 -----
 <!--Presentacion-->
 ## 🏆 GitHub Trophies ( •̀ ᗜ •́ )ᕗ
-![](https://github-profile-trophy.vercel.app/?username=IngRamirezJezhuah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-trophies.vercel.app/?username=IngRamirezJezhuah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 -----
 # 📊 GitHub Stats ( • ̀ω•́ )✧:
@@ -134,5 +135,5 @@ My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1  style="display: inline-block">Last Edited on: 12/7/2025</h1>
+<h1  style="display: inline-block">Last Edited on: 26/8/2025</h1>
 
