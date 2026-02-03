@@ -77,7 +77,10 @@
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 My desktop:⊹₊⋆</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf" height="300" width="400" />
-  <img src="https://github.com/user-attachments/assets/ce5099b9-9460-4239-9f97-7f935f55baa7" alt="grub" width="600px" height="400px" aling="center"/>
+  <img src="https://github.com/user-attachments/assets/26edb259-385a-4267-b21f-30553c28fff9" alt="grub" width="600px" height="400px" aling="center"/>
+  <img src="https://github.com/user-attachments/assets/37fa6133-6eac-4876-bf36-4f621f52ed41" height="700" width="500" />
+
+
 </p>
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆(⊙ _ ⊙ )</h3>
 <p align="center">
@@ -135,5 +138,5 @@ My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1  style="display: inline-block">Last Edited on: 26/8/2025</h1>
+<h1  style="display: inline-block">Last Edited on: 9/feb/2026</h1>
 
