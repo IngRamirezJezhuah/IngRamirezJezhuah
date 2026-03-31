@@ -60,6 +60,7 @@
 
 -----
 # 📊 GitHub Stats ( • ̀ω•́ )✧:
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=IngRamirezJezhuah&theme=radical&type=languages)
 ![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IngRamirezJezhuah&theme=dark&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
