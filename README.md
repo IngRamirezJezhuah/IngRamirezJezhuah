@@ -60,11 +60,11 @@
 
 -----
 # 📊 GitHub Stats ( • ̀ω•́ )✧:
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=IngRamirezJezhuah&theme=radical&type=languages)
+
 ![](https://github-readme-stats.vercel.app/api?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IngRamirezJezhuah&theme=dark&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=IngRamirezJezhuah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRamirezJezhuah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <div>
@@ -124,7 +124,7 @@ My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 - ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ Feel free to say hello**👋(˶ˆᗜˆ˵)** on Discord: [pronoobdj](https://discordapp.com/users/957722095381540874) <- (˃ 𖥦 ˂) my username!
 
 - (っ'ヮ'c) I'm looking to collaborate on individual or general projects, willing to work remotely (˶°ㅁ°) !!
-- 📝 I regularly post draws on insta<a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+- 📝 I regularly post draws on insta watch what im doing -> <a href="https://www.instagram.com/djxs4n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 -----
 
@@ -139,5 +139,5 @@ My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1  style="display: inline-block">Last Edited on: 9/feb/2026</h1>
+<h1  style="display: inline-block">Last Edited on: 23/apr/2026</h1>
 
