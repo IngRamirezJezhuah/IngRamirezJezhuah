@@ -89,7 +89,7 @@
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆(⊙ _ ⊙ )</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,arch,xd,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,mint,arch,bsd,&perline=14" />
   </a>
 </p>
 
@@ -99,14 +99,14 @@
  <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,sqlite,nodejs,npm,ts,react,express,docker,grafana,gradle,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,rust,lua,bash,haskell,htmx,html,css,java,js,php,nginx,django,mongodb,mysql,cassandra,sqlite,nodejs,npm,ts,react,express,docker,grafana,gradle,&perline=14" />
   </a>
 </p>
 
 <h3 align="left">( ◡̀_◡́)ᕤ₊˚⊹☆ Programs who use :⊹₊⋆</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,androidstudio,arduino,vscode,postman,unreal,godot,aws,linkedin,xd,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,vim,emacs,vscode,cmake,discord,postgres,figma,github,androidstudio,arduino,postman,unreal,godot,aws,linkedin,xd,docker&perline=14" />
   </a>
 </p>
 
