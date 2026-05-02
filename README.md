@@ -6,7 +6,7 @@
 </div>
   <div align="center">
     <div style="display: inline-block">
-       <h4>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+       <p font-size="2rem">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠶⠚⠉⢉⣩⠽⠟⠛⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠉⠀⢀⣠⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⠁⠀⠀⣰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -77,10 +77,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 My desktop:⊹₊⋆</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf" height="300" width="400" />
-  <img src="https://github.com/user-attachments/assets/26edb259-385a-4267-b21f-30553c28fff9" alt="grub" width="600px" height="400px" aling="center"/>
-  <img src="https://github.com/user-attachments/assets/37fa6133-6eac-4876-bf36-4f621f52ed41" height="700" width="500" />
 
+<div>
+  <img align="left"  src="https://github.com/user-attachments/assets/37fa6133-6eac-4876-bf36-4f621f52ed41" height="400px" width="300px" />	
+  <img align="center" src="https://github.com/user-attachments/assets/26edb259-385a-4267-b21f-30553c28fff9" alt="grub" width="400px" height="500px" aling="center"/>
+	<img src="https://github.com/user-attachments/assets/200ec068-7448-4c57-b710-ee8257ec35cf" height="300px" width="400px" />
+</div>
+  
 
 </p>
 <h3 align="left">₊˚⊹☆𐔌՞꜆.  ̫.꜀՞𐦯 systems I use:⊹₊⋆(⊙ _ ⊙ )</h3>
@@ -106,6 +109,14 @@
     <img src="https://skillicons.dev/icons?i=git,discord,postgres,figma,github,androidstudio,arduino,vscode,postman,unreal,godot,aws,linkedin,xd,&perline=14" />
   </a>
 </p>
+
+# Buy me a coffe
+<p > Do you like buy me a coffe 𐔌՞ ܸ.ˬ.ܸ՞𐦯👉👈 </p>
+<div align="center">	
+<a href="https://buymeacoffee.com/djxs4n"><img width="120" height="120" alt="For coffee lovers" src="https://github.com/user-attachments/assets/b2d9bfd4-6f29-497e-bd1d-9b83fe96beef" /> 
+<p>˙𐃷˙ click me!</p>
+</a>
+</div>
 
 
 ## 🔭**ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ I'm interested in** developing and designing for video games, creating programs, and playing with free and open-source software.
@@ -139,5 +150,5 @@ My topics of interest in projects about ∘ ∘ ∘ ( °ヮ° ) technologies?
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1  style="display: inline-block">Last Edited on: 23/apr/2026</h1>
+<h1  style="display: inline-block">Last Edited on: 2/may/2026</h1>
 
